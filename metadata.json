@@ -1,0 +1,6 @@
+{
+  "name": "層層甜點塔 Cake Stack",
+  "description": "2D 蛋糕疊疊樂手機遊戲：抓準上方鐘擺繩索擺盪的時機點擊落下蛋糕，精準對齊疊出最高甜點塔。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
